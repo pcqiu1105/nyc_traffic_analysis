@@ -7,7 +7,8 @@
 ### 文件结构
 - `data/raw/` - 原始数据
 - `data/processed/` - 清洗后数据  
-- `scripts/` - 处理脚本
+- `scripts/src` - 处理脚本
+- `scripts/tests` - 单元测试脚本
 - `outputs/` - 最终结果和图表
 
 ### 运行顺序
